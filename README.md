@@ -1,11 +1,12 @@
-Best with: Python · Mathematical/Quantitative Modeling (stochastic processes, statistics, optimization) · Computer Vision (YOLO, TensorRT)
-Familiar with: TypeScript · React · Terraform · SQL · Kalman filters · Deep Learning
+Best with: Python · Pytorch · Mathematical/Quantitative Modeling (stochastic processes, statistics, optimization) · Computer Vision (YOLO, TensorRT) · ML/Deep Learning/AI
+
+Familiar with: SQL · Kalman filters 
 
 ## 💡 TL;DR
 Physicist-turned-quant-minded ML engineer who went from dark matter searches at CERN to shipping production computer vision on the edge. My edge is mathematical: I formulate problems rigorously — statistical inference, stochastic modeling, optimization — before I ever touch a model, and that shows up everywhere from Kalman-filter trading strategies to sensor fusion pipelines that have to survive contact with real hardware. My superpower is translating hard, physics-grade math into deployable, production-grade systems, fast.
 
-## About Aimar
-I'm a Machine Learning Engineer at Multiverse Computing (Series B), based between Zaragoza and Zarautz, Spain. I trained as a physicist — BSc Physics at the University of the Basque Country (9.29/10, Cum Laude, top of class), MSc Applied and Engineering Physics at TU Munich (1.1, DAAD scholarship), thesis at CERN and ETH Zürich building a dark-matter search pipeline — before moving into applied ML. That background means math isn't a tool I picked up for ML, it's the lens I default to: I still spend a lot of my own time on quantitative finance and algorithmic trading, for the same reason I liked physics — it's math tested against something that doesn't care what you believe. What excites me is chasing a hard, abstract problem across domains — physics, engineering, markets — until it clicks, and then watching it get tested against reality: a live market, a real sensor feed, actual data.
+## About Aimar Aguado Berasaluce
+I'm a Machine Learning Engineer at Multiverse Computing (Series B), based between Zaragoza and Zarautz, Spain. I trained as a physicist, BSc Physics at the University of the Basque Country (9.29/10, Cum Laude, top of class), MSc Applied and Engineering Physics at TU Munich (1.1, DAAD scholarship), thesis at CERN and ETH Zürich building a dark-matter search pipeline, before moving into applied ML. That background means math isn't a tool I picked up for ML, it's the lens I default to. I still spend a lot of my own time on understanding the root of any problem from its mathematical point of view, which is the same reason I liked physics — it's using math to understand the reality as we know it. What excites me is chasing a hard, abstract problem across domains, physics, engineering, markets, until it clicks, and then watching it get tested against reality: a live market, a real sensor feed, actual data.
 
 ## Main Achievements
 - **[Achievement 1]** — e.g. algo-trading: built a quant library covering Kalman-filter pairs trading, mean-reversion strategies, and an options volatility suite, with a shared backtesting framework. *(Add a metric if you have one — Sharpe, returns, live P&L.)*
